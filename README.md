@@ -2,9 +2,9 @@
 
 A little about my roadmap:
 
-## Advanced SQL and Data Engineering Syllabus (PostgreSQL / Pagila)
+## Advanced SQL and Data Syllabus (PostgreSQL / Pagila)
 
-### Phase 0: Warm-up and Consolidation (Solid Foundation)
+### Phase 0:  (Solid Foundation)
 
 - 0.1 Integration of filtering and aggregation (JOIN, GROUP BY, HAVING, ORDER BY).
 - 0.2 Applied conditional logic (CASE WHEN inside and outside aggregations).
@@ -56,3 +56,4 @@ A little about my roadmap:
 ---
 
 Just learning SQL.
+yeah, i'm using ai to learn.
